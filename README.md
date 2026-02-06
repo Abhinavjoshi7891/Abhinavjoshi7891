@@ -170,25 +170,24 @@ Superpower: Bridging classical engineering with modern AI
 
 <div align="center">
 
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=Abhinavjoshi7891&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00FF&text_color=FFFFFF&ring_color=00F5FF" alt="GitHub Stats" height="170"/>
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavjoshi7891&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" alt="Top Languages" height="170"/>
+<a href="https://github.com/Abhinavjoshi7891">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhinavjoshi7891&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhinavjoshi7891&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</a>
 
 </div>
 
 <div align="center">
 
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinavjoshi7891&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=FF00FF&fire=FF00FF&currStreakLabel=00F5FF&sideLabels=00F5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Streak"/>
+<!-- Streak Stats - Using alternative deployment -->
+<img src="https://streak-stats.demolab.com/?user=Abhinavjoshi7891&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=FF00FF&fire=FF00FF&currStreakLabel=00F5FF" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinavjoshi7891&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F5FF&line=FF00FF&point=FFFFFF&area=true&area_color=FF00FF" alt="Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinavjoshi7891&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%"/>
 
 </div>
 
@@ -198,7 +197,7 @@ Superpower: Bridging classical engineering with modern AI
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Abhinavjoshi7891&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Abhinavjoshi7891&theme=tokyonight&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
