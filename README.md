@@ -193,16 +193,6 @@ Superpower: Bridging classical engineering with modern AI
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Abhinavjoshi7891&theme=tokyonight&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## ⚡ Fun Fact
 
 <div align="center">
