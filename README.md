@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hey%2C+I'm+Abhinav+%F0%9F%91%8B;Robotics+Engineer+%7C+AI+Researcher+%7C+Innovator;Building+the+future+of+assistive+robotics+%F0%9F%A6%BE)](https://github.com/Abhinavjoshi7891)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hey%2C+I'm+Abhinav+%F0%9F%91%8B;Robotics+Engineer+%7C+AI+Researcher+%7C+Innovator;Building+the+future+of+applied+robotics+%F0%9F%A6%BE)](https://github.com/Abhinavjoshi7891)
 
 <!-- Tagline -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=2000&color=FF00FF&center=true&vCenter=true&width=600&lines=Transforming+manufacturing+legacy+into+robotics+innovation;IIT+Delhi+RISE+Lab+%7C+Brain-Computer+Interfaces+%7C+Rehabilitation+Robotics" alt="Tagline" />
