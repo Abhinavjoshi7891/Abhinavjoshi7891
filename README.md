@@ -19,7 +19,7 @@
 
 ---
 
-<img align="right" alt="Cyborg Avatar" width="300" src="./avatar.jpg"/>
+<img align="right" alt="Cyborg Avatar" width="300" src="https://raw.githubusercontent.com/Abhinavjoshi7891/Abhinavjoshi7891/main/avatar.jpg"/>
 
 ## 🤖 About Me
 
